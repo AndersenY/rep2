@@ -4,8 +4,8 @@ int sum(int a, int b);
 int main()
 {
     int a = 1;
-    int b = 20;
-    int c = raznost(a, b);
+    int b = 2;
+    int c = sum(a, 20);
     cout << c;
 }
 
