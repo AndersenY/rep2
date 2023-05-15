@@ -5,7 +5,7 @@ int main()
 {
     int a = 1;
     int b = 20;
-    int c = sum(a, b);
+    int c = raznost(a, b);
     cout << c;
 }
 
